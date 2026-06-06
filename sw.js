@@ -1,11 +1,10 @@
-var CACHE_NAME = 'vgatech-player-v1';
+var CACHE_NAME = 'vgatech-v1';
 var urlsToCache = [
-  '/VGA-TECH/VGATECH.html',
-  '/VGA-TECH/file2_style.css',
-  '/VGA-TECH/file2_script.js',
-  '/VGA-TECH/logo/logo.jpg',
-  'https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap',
-  'https://fonts.googleapis.com/icon?family=Material+Icons'
+  '/VGA-TECH/',
+  '/VGA-TECH/index.html',
+  '/VGA-TECH/file1_style.css',
+  '/VGA-TECH/file1_script.js',
+  '/VGA-TECH/logo/logo.jpg'
 ];
 
 self.addEventListener('install', function(event) {
