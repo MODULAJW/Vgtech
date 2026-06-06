@@ -1,0 +1,25 @@
+{{
+  "name": "VGA TECH V2 Player",
+  "short_name": "VGA PLAYER",
+  "description": "Music Player VGA Tech",
+  "start_url": "/VGA-TECH/VGATECH.html",
+  "scope": "/VGA-TECH/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/VGA-TECH/logo/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/VGA-TECH/logo/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
